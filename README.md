@@ -18,7 +18,7 @@ Je suis actuellement engagé dans plusieurs projets, fondés par moi même ou no
 
 ## 📢 Envie d'en savoir plus sur les projets évoqués ci-dessus ?
 
-***World-Heberg :***
+#### World-Heberg :
 
 👋 Connaissez-vous **World-Heberg.com** ?
 World-Heberg propose diverses solutions d'hébergements gratuitement afin de permettre à tout le monde de bénéficier de nos services professionnels ! World-Heberg est dirigé par des passionnés ! Nous travaillons tous les jours sur World-Heberg.com pour constamment vous proposer des nouveautés et faire avancer World-Heberg.
@@ -33,7 +33,7 @@ Avant tout nous voulons vous aider à propulser vos projets gratuitement ! Mais 
  
 Nous espérons vous voir bientôt sur notre serveur ! 🙂
 
-***Graphicoum***
+#### Graphicoum
 
 👋 Hey, tu connais Graphicoum ?
 
@@ -48,10 +48,10 @@ Alors, qu'attendez vous ?
 🛠️ **Serveur de support** : [ici](https://discord.gg/GWXFj6D)
 📎  **Inviter le robot sur votre serveur** : [ici](https://discord.com/oauth2/authorize?client_id=723582954248470629&permissions=2147483639&scope=bot)
 
-***@emmanueldevfr***
+#### @emmanueldevfr
 📰 ➔ Retrouvez chaque semaine un résumé clair et rapide de l'actualité numérique ! [Instagram](https://instagram.com/emmanueldevfr)
 
-***Fortool***
+#### Fortool
 
 Le 26 février 2019 naissait Fortool avec une map moving zone, incroyable, réalisée par Tchoow et Quentin.
 
