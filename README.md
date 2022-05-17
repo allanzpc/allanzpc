@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/zupcic_allan" target="blank"><img src="https://img.shields.io/twitter/follow/zupcic_allan?logo=twitter&style=for-the-badge" alt="zupcic_allan" /></a> </p>
 
-- 🔭 I’m currently working on [Vega Digital](https://vegadigital.fr)
-
 - 🌱 I’m currently learning **Laravel, Java and C**
 
 - 👨‍💻 All of my projects are available at [https://allanzpc.tk](https://allanzpc.tk)
